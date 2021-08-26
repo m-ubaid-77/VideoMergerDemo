@@ -1,0 +1,24 @@
+PODS:
+  - CTAssetsPickerController (3.3.1):
+    - PureLayout (~> 3.0.0)
+  - PureLayout (3.0.2)
+  - Toast (4.0.0)
+
+DEPENDENCIES:
+  - CTAssetsPickerController (~> 3.3.0)
+  - Toast (~> 4.0.0)
+
+SPEC REPOS:
+  trunk:
+    - CTAssetsPickerController
+    - PureLayout
+    - Toast
+
+SPEC CHECKSUMS:
+  CTAssetsPickerController: b1d1d50ab87cf6b8b13531de5f4530482e7e53ed
+  PureLayout: 4d550abe49a94f24c2808b9b95db9131685fe4cd
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+
+PODFILE CHECKSUM: 3126a2d5de9c541178fb3b1f52b806ba8d1832b7
+
+COCOAPODS: 1.9.3
